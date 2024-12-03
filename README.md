@@ -11,11 +11,12 @@ WindSightNet data available for download:
 A. E. Stott et al. https://doi.org/10.5281/zenodo.14267663
 
 File contains value of wind speed and direction for a sample at given times:
-Sol - number of sol of InSight mission 
-UTC - Coordinated Universal Time of sample
-LTST - Local True Solar Time of sample
-L_s - Solar longitude value of sample
-Time - seconds since UNIX epoch
+- Sol - number of sol of InSight mission 
+- UTC - Coordinated Universal Time of sample
+- LTST - Local True Solar Time of sample
+- L_s - Solar longitude value of sample
+- Time - seconds since UNIX epoch
+
 Data is considered to be sampled at a rate of 0.01 Hz when there are no gaps.
 
 For Figure 11
